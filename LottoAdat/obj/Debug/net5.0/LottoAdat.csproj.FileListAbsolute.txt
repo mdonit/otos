@@ -1,0 +1,45 @@
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.deps.json
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.dll
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\bin\Debug\net5.0\ref\LottoAdat.dll
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.pdb
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.csproj.AssemblyReference.cache
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.AssemblyInfoInputs.cache
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.AssemblyInfo.cs
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.csproj.CoreCompileInputs.cache
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.dll
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\ref\LottoAdat.dll
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.pdb
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.runtimeconfig.json
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.runtimeconfig.dev.json
+C:\Users\JagerAttila\Desktop\2022.02.08\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.deps.json
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.runtimeconfig.dev.json
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\bin\Debug\net5.0\ref\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.pdb
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\ref\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.pdb
+D:\Programs\Microsoft Visual Studio Projects\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.deps.json
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.runtimeconfig.dev.json
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\bin\Debug\net5.0\ref\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\bin\Debug\net5.0\LottoAdat.pdb
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\ref\LottoAdat.dll
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.pdb
+D:\Programs\Microsoft Visual Studio Projects\zPuskazni\OtosLotto\LottoAdat\obj\Debug\net5.0\LottoAdat.genruntimeconfig.cache

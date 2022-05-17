@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73d2ffbe-648a-409e-83ea-1e8455dede55": {
+      "ProjectGuid": "73d2ffbe-648a-409e-83ea-1e8455dede55",
+      "DisplayName": "LottoSzimulator",
+      "ColorIndex": 0
+    },
+    "86ed62bd-4e4f-4f02-ac1c-9bcadc1c3255": {
+      "ProjectGuid": "86ed62bd-4e4f-4f02-ac1c-9bcadc1c3255",
+      "DisplayName": "LottoFeltoltes",
+      "ColorIndex": 1
+    },
+    "8fa98fde-fee3-4f8b-baa9-a5370691098f": {
+      "ProjectGuid": "8fa98fde-fee3-4f8b-baa9-a5370691098f",
+      "DisplayName": "LottoAdat",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
